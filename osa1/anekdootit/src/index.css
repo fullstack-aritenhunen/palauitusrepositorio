@@ -1,0 +1,11 @@
+
+
+
+div#root > div > button {
+	
+  border-radius: 5px;
+  border-style: double;
+  background-color: #FFFFFF;
+  margin: 1px;
+	
+}
